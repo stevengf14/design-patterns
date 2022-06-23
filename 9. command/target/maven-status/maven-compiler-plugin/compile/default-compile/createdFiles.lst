@@ -1,0 +1,5 @@
+ec\com\learning\structural\proxy\inter\impl\AccountBankingImpl.class
+ec\com\learning\structural\proxy\rpoxy\ProxyAccount.class
+ec\com\learning\structural\proxy\App.class
+ec\com\learning\structural\proxy\inter\IAccount.class
+ec\com\learning\structural\proxy\model\Account.class

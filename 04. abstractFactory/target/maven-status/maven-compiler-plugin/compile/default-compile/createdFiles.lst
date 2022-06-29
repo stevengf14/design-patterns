@@ -1,0 +1,15 @@
+ec\com\learning\creational\abstractFactory\inter\DBConnection.class
+ec\com\learning\creational\abstractFactory\inter\impl\PostgresqlConnection.class
+ec\com\learning\creational\abstractFactory\RESTConnectionFactory.class
+ec\com\learning\creational\abstractFactory\inter\impl\RESTConnectionPurchases.class
+ec\com\learning\creational\abstractFactory\ProductorFactory.class
+ec\com\learning\creational\abstractFactory\DBConnectionFactory.class
+ec\com\learning\creational\abstractFactory\inter\RESTConnection.class
+ec\com\learning\creational\abstractFactory\App.class
+ec\com\learning\creational\abstractFactory\inter\impl\SqlServerConnection.class
+ec\com\learning\creational\abstractFactory\inter\impl\EmptyConnection.class
+ec\com\learning\creational\abstractFactory\inter\AbstractFactory.class
+ec\com\learning\creational\abstractFactory\inter\impl\RESTConnectionNoArea.class
+ec\com\learning\creational\abstractFactory\inter\impl\RESTConnectionSales.class
+ec\com\learning\creational\abstractFactory\inter\impl\MysqlConnection.class
+ec\com\learning\creational\abstractFactory\inter\impl\OracleConnection.class

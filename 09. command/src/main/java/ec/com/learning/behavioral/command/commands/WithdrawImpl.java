@@ -1,21 +1,21 @@
-package ec.com.learning.structural.command.commands;
+package ec.com.learning.behavioral.command.commands;
 
 /**
  *
  * @author Steven Guamán - June 2022
  */
-public class DepositImpl implements IOperation {
+public class WithdrawImpl implements IOperation {
     
     private Account account;
     private double amount;
     
-    public DepositImpl(Account account, double amount) {
+    public WithdrawImpl(Account account, double amount) {
         this.account = account;
         this.amount = amount;
     }
     
     @Override
     public void execute() {
-        this.account.deposit(this.amount);
+        this.account.withdraw(this.amount);
     }
 }

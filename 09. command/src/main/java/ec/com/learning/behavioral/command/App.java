@@ -1,9 +1,9 @@
-package ec.com.learning.structural.command;
+package ec.com.learning.behavioral.command;
 
-import ec.com.learning.structural.command.commands.Account;
-import ec.com.learning.structural.command.commands.DepositImpl;
-import ec.com.learning.structural.command.commands.Invoker;
-import ec.com.learning.structural.command.commands.WithdrawImpl;
+import ec.com.learning.behavioral.command.commands.Account;
+import ec.com.learning.behavioral.command.commands.DepositImpl;
+import ec.com.learning.behavioral.command.commands.Invoker;
+import ec.com.learning.behavioral.command.commands.WithdrawImpl;
 
 /**
  *

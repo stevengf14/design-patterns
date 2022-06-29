@@ -1,4 +1,4 @@
-package ec.com.learning.structural.command.commands;
+package ec.com.learning.behavioral.command.commands;
 
 import java.util.ArrayList;
 import java.util.List;

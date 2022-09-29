@@ -2,7 +2,6 @@ package ec.com.learning.behavioral;
 
 import ec.com.learning.behavioral.dao.CRUD;
 import ec.com.learning.behavioral.dao.DoctorDAOImpl;
-import ec.com.learning.behavioral.dao.PersonDAO;
 import ec.com.learning.behavioral.dao.PersonDAOImpl;
 import ec.com.learning.behavioral.model.Doctor;
 import ec.com.learning.behavioral.model.Person;

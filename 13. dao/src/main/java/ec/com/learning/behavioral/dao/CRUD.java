@@ -1,6 +1,5 @@
 package ec.com.learning.behavioral.dao;
 
-import ec.com.learning.behavioral.model.Doctor;
 import java.util.List;
 
 /**

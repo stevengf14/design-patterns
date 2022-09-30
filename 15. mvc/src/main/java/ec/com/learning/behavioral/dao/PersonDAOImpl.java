@@ -19,8 +19,8 @@ public class PersonDAOImpl implements PersonDAO {
         list.add(person);
 
         Person person2 = new Person();
-        person2.setId(2);
-        person2.setNames("Nicole");
+        person.setId(2);
+        person.setNames("Nicole");
         list.add(person2);
 
         return list;

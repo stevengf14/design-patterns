@@ -19,8 +19,8 @@ public class DoctorDAOImpl implements DoctorDAO {
         list.add(doctor);
 
         Doctor doctor2 = new Doctor();
-        doctor.setId(2);
-        doctor.setNames("Nicole");
+        doctor2.setId(2);
+        doctor2.setNames("Nicole");
         list.add(doctor2);
 
         return list;

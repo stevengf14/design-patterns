@@ -2,12 +2,13 @@ package ec.com.learning.behavioral.model;
 
 /**
  *
- * @author Steven Guamán - September 2022
+ * @author Steven - September 2022
  */
 public class Person {
 
     private int id;
     private String names;
+    private int age;
 
     public int getId() {
         return id;
@@ -23,6 +24,14 @@ public class Person {
 
     public void setNames(String names) {
         this.names = names;
+    }
+
+    public int getAge() {
+        return age;
+    }
+
+    public void setAge(int age) {
+        this.age = age;
     }
 
 }
